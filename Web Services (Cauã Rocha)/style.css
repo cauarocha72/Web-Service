@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: black;
+}
+header{
+    margin-bottom: 5%;
+    margin-left:1% ;
+    
+    background-color: brown;
+}
+h1,h3{
+    margin-left:  5%; 
+    color:white;
+}
+div{
+    margin-left: 5%; 
+    border: 6px solid;
+    border-color: white;
+    border-radius: 10px;
+    width: 30%;
+}
